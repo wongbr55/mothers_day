@@ -1,0 +1,11 @@
+body{
+    background-image: url('./assets/images/maroon_5_flowers.jpg');
+    background-size: auto;
+}
+
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
